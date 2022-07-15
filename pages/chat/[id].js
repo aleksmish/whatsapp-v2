@@ -9,7 +9,7 @@ import { deepCopy } from '@firebase/util';
 import getRecipientEmail from '../../utils/getRecipientEmail';
 function Chat({chat,messages}) {
   const [user]=useAuthState(auth)
-
+  
   return (
     <Container>
         <Head>

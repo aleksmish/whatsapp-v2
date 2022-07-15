@@ -30,3 +30,9 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# firebase config
+.firebase.js
+
+# babel config
+.babelrc
