@@ -32,7 +32,7 @@ yarn-error.log*
 .vercel
 
 # firebase config
-.firebase.js
+firebase.js
 
 # babel config
 .babelrc
